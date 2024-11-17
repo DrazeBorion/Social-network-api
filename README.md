@@ -15,11 +15,3 @@ This is a backend proof of concept for a social media site. Users, thoughts, and
 ## License
 
 This project is protected under the MIT License
-
-## Questions
-
-For more questions contact [bewtaich](https://github.com/bewtaich) at <bewtaich@gmail.com>
-
-## Walkthrough
-
-URL: https://www.veed.io/view/d92d5f6c-cfe2-4721-91b2-e2f2c94726b9?panel=share
